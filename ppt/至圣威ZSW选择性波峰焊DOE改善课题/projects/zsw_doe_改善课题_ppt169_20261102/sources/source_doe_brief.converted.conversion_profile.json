@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "source_to_md.py",
+  "conversion_type": "markdown",
+  "source": {
+    "path": "source_doe_brief.md",
+    "name": "source_doe_brief.md",
+    "suffix": ".md",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 9915
+  },
+  "outputs": {
+    "markdown": "source_doe_brief.converted.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 178,
+    "char_count": 4547,
+    "heading_count": 12,
+    "table_count": 5,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": []
+}
